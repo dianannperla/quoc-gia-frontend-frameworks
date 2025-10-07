@@ -1,0 +1,15 @@
+{
+  "name": "quoc-gia-frontend-frameworks",
+  "version": "1.0.0",
+  "description": "Nền tảng cho các lập trình viên ở Việt Nam tìm hiểu và sử dụng các framework frontend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
